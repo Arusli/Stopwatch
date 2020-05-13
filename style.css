@@ -1,0 +1,21 @@
+#wrapper {
+    text-align: center;
+}
+
+#clock {
+    font-size: 10rem;
+    font-family: monospace;
+}
+
+button {
+    height: 50px;
+    width: 200px;
+    font-size: 2rem;
+    margin: 5px;
+    cursor: pointer;
+    background-color: lightpink;
+}
+
+#body {
+    background-color: white;
+}
